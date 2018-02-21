@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information  about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+      <div type="article">
+        <head>Cheerleaders -- A Tiny Issue</head><!--redo text with column breaks preserved-->
+        <p>[Racism] is a very <grave> [is­sue] at the University. It is an [issue] that concerns all [black students] on [campus]in a very *personal* way and it should concern the [white stu­dents] more for they are the ones guilty of [racism]. The [Black Student Union], of course, has a responsibility to its [membership] and to the en­tire [University community] to call attention to the *racial* [problems] that beset this [cam­pus]. But so far the only [prob­lems that [BSU] has amplified are the [home economics experiment] which excluded [Negro participants] and the [cheerleading squad] which al­legedly discriminated against [black students]. These are not *fitting* [issues] around which to build a [cam­paign] against *latent* and *blatant* [racism] on [campus]. Lack of [representation] on the [cheer­leading squad] is *obviously* a [manifestation] of a much *larger* [problem] but there are <many> [students] on [campus], and *worse*, many [administrators] who *seem* to be *unaware* of these [problems].</p>
+        <p>Why, in a [state] which is 15 per cent *black*, is the [Univer­sity] <only> 2 per cent *black*? Why is the [University] so *weak* in recruiting and awarding [scholarships] to [black ath­letes]? Why is the [Board of Regents] exclusively *white*? Why is the [Maryland State campus] so *deplorable*? Why is it predominantly *black*? Why is it that [white Univer­sity students] whisper to [one another] when they see a [black student] raise a *clenched* [fist] as the [national anthem] is sung at a [basketball game]? [BSU] has failed to make its <real> [concerns] *known* to the [University community]. It has failed to gain the [sympathy] of [white students] and [adminis­trators] who agree that '[the University] is a *racist* [institu­tion].</p>
+        <p>Because of its insistence on dwelling on <relatively> *in­significant* [examples] of [dis­crimination], [BSU] seems to be attempting to *** [students] that there are <larger> *racial* [problems] on [campus], and hence, no *urgent* ones. [BSU] is going about the [prob­lem] of eliminating [racism] on [campus] by attacking each [in­stance of discrimination] as it is discovered — no matter how *insignificant*, no matter how *unintentional*. Using that tact, [BSU] should eliminate [racism] in about [1,000 years]. The *correct* [approach] is to attack the <bigger> [problems] and gain the [sympathy] of the *mod­erate* [blacks] and the *liberal* [whites]. With this *sort* of [coalition], the [administration] and the [student body] can no longer afford to ignore [BSU].</p>
+      </div>
+    </body>
+  </text>
+</TEI>
